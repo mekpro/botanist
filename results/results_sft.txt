@@ -1,0 +1,709 @@
+Downloading CSV file...	
+	
+Processing images (limit: 50)...	
+	
+Image 1: train/1358101/4e0e883c4725a93fb91fedab55767fb57e2edf6c.jpg	
+True species: Sedum caeruleum | True inflorescence: Cyme	
+Getting 5 predictions...	
+Prediction 1: Invalid JSON response	
+Prediction 2: Invalid JSON response	
+Prediction 3: Invalid JSON response	
+Prediction 4: Species: Sedum album | Inflorescence: Cyme	
+Prediction 5: Species: Sedum australe | Inflorescence: Cyme	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 2: train/1405641/b739153b1f158e781663696512c872af3b769df6.jpg	
+True species: Asystasia gangetica | True inflorescence: Secund raceme	
+Getting 5 predictions...	
+Prediction 1: Species: Secര്യ mobil | Inflorescence: Secund raceme	
+Prediction 2: Species: Secund raceme | Inflorescence: Secund raceme	
+Prediction 3: Species: Secund raceme | Inflorescence: Secund raceme	
+Prediction 4: Species: Mussaenda crithmoides | Inflorescence: Cyme	
+Prediction 5: Species: Secund raceme | Inflorescence: Secund raceme	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 3: train/1435714/bd895417b0fdf953e71e6588d06e0d6a7a4ed5cd.jpg	
+True species: Pelargonium zonale | True inflorescence: Pseudo-umbel	
+Getting 5 predictions...	
+Prediction 1: Species: Pseudo-umbel | Inflorescence: Pseudo-umbel	
+Prediction 2: Species: Pseudo-umbel | Inflorescence: Pseudo-umbel	
+Prediction 3: Species: Pseudo-umbel | Inflorescence: Pseudo-umbel	
+Prediction 4: Species: Pseudo-umbel | Inflorescence: Pseudo-umbel	
+Prediction 5: Species: Pseudo-umbel | Inflorescence: Pseudo-umbel	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 4: train/1359197/95b9e17486279db69b13560116c2261b4e87671e.jpg	
+True species: Galega officinalis | True inflorescence: Raceme	
+Getting 5 predictions...	
+Prediction 1: Species: Lupheas muchaca | Inflorescence: Raceme	
+Prediction 2: Species: Lupinus albus | Inflorescence: Raceme	
+Prediction 3: Species: Melilotus indicus | Inflorescence: Raceme	
+Prediction 4: Species: Lupinus albus | Inflorescence: Raceme	
+Prediction 5: Species: Lupinus albus | Inflorescence: Raceme	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 5: train/1358752/a65f1ccf616ed078ad35ce6f3b6b7deae7a9c514.jpg	
+True species: Lamium purpureum | True inflorescence: Verticillaster	
+Getting 5 predictions...	
+Prediction 1: Invalid JSON response	
+Prediction 2: Invalid JSON response	
+Prediction 3: Species: Lamium rhombifolium | Inflorescence: Verticillata (whorls), upper leaves slightly curled.	
+Prediction 4: Species: Lamium rhombifolium | Inflorescence: Verticillata (whorls), upper leaves still intact.	
+Prediction 5: Invalid JSON response	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 6: train/1435714/a5e325c7859a72dbd0ae3f90ea8f8404cb60939e.jpg	
+True species: Pelargonium zonale | True inflorescence: Pseudo-umbel	
+Getting 5 predictions...	
+Prediction 1: Species: Pseudo-umbel | Inflorescence: Pseudo-umbel	
+Prediction 2: Species: Pseudo-umbel | Inflorescence: Pseudo-umbel	
+Prediction 3: Species: Pseudo-Crotalaria junco পুঁজিবata | Inflorescence: Pseudo-Dichasial	
+Prediction 4: Species: Pelargonium quinquelibatum | Inflorescence: Pseudo-umbel	
+Prediction 5: Species: Pseudo-umbel | Inflorescence: Pseudo-umbel	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 7: train/1358704/2c20923776506ec1e251ba53f660ead91dd38c5a.jpg	
+True species: Hypericum montanum | True inflorescence: Terminal cyme	
+Getting 5 predictions...	
+Prediction 1: Species: Achyranthes aspera | Inflorescence: Spike	
+Prediction 2: Species: Achyranthes aspera | Inflorescence: Spike	
+Prediction 3: Species: Achyranthes aspera | Inflorescence: Spike	
+Prediction 4: Species: Achyranthes aspera | Inflorescence: Spike	
+Prediction 5: Species: Achyranthes aspera | Inflorescence: Spike	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 8: train/1356003/194900107dcbdd054c09cc5d6dfa7116414b4a29.jpg	
+True species: Phyllanthus tenellus | True inflorescence: Axillary cluster	
+Getting 5 predictions...	
+Prediction 1: Species: Phyllanthus amarus | Inflorescence: Axillary cluster (Axillary)	
+Prediction 2: Species: Achyranthes aspera | Inflorescence: Axillary cluster (Axillary)	
+Prediction 3: Species: Achyranthes aspera | Inflorescence: Spike-like Raceme	
+Prediction 4: Species: Axyllobien jamon jamon | Inflorescence: Axillary cluster	
+Prediction 5: Species: Achyranthes aspera | Inflorescence: Axillary fascicle	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 9: train/1359332/473fb264693d2a0a8c3d5a089af7f7670ebf230c.jpg	
+True species: Lupinus micranthus | True inflorescence: Raceme	
+Getting 5 predictions...	
+Prediction 1: Species: Lupinus polyphyllus | Inflorescence: Raceme	
+Prediction 2: Species: Lupinus muricatus | Inflorescence: Raceme	
+Prediction 3: Invalid JSON response	
+Prediction 4: Species: Lupinus asilo as asiophene | Inflorescence: Raceme	
+Prediction 5: Invalid JSON response	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 10: train/1355868/37975562c06628d9d3e38e03df6051c4b1c4f692.jpg	
+True species: Lactuca virosa | True inflorescence: Capitulum (Head)	
+Getting 5 predictions...	
+Prediction 1: Species: Lactuca serfata | Inflorescence: Capitulum (Head)	
+Prediction 2: Species: Lactuca serriota | Inflorescence: Capitulum (Head)	
+Prediction 3: Species: Lapsana communolidata | Inflorescence: Capitulum	
+Prediction 4: Species: Lactuca vesca | Inflorescence: Capitulum (Head)	
+Prediction 5: Species: Lapsana communţii | Inflorescence: Capitulum (Head)	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 11: train/1359483/2afaad4482fc64b88f8195c13e4964893880438b.jpg	
+True species: Trifolium angustifolium | True inflorescence: Spike-like head	
+Getting 5 predictions...	
+Prediction 1: Invalid JSON response	
+Prediction 2: Invalid JSON response	
+Prediction 3: Species: Aumentum maritochemistry | Inflorescence: A slightly worn, older flower at the bloom end, nestled among late-season, drying leaves.	
+Prediction 4: Invalid JSON response	
+Prediction 5: Species: Cenchrust australe | Inflorescence: Spike-like dense	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 12: train/1359622/b9167a4a389f466f21dd3d5a609ccc0dc001546a.jpg	
+True species: Althaea cannabina | True inflorescence: Axillary flowers forming a loose raceme	
+Getting 5 predictions...	
+Prediction 1: Species: Pelargonium graveolens | Inflorescence: Umbel-Plants	
+Prediction 2: Invalid JSON response	
+Prediction 3: Species: Pelargonium graveolens | Inflorescence: Umbel-Plants	
+Prediction 4: Invalid JSON response	
+Prediction 5: Invalid JSON response	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 13: train/1356111/3b4b881f90775f5b5859f7f030729996260c9070.jpg	
+True species: Lamium amplexicaule | True inflorescence: Verticillaster	
+Getting 5 predictions...	
+Prediction 1: Species: Lamium rhombifolium | Inflorescence: Whorled verticillium	
+Prediction 2: Invalid JSON response	
+Prediction 3: Species: Lamium rhombifolium | Inflorescence: Verticillatus	
+Prediction 4: Species: Lamium verticell | Inflorescence: Verticillaster verticell grasses	
+Prediction 5: Species: Wigandia wicata | Inflorescence: Verticillata (whorled arrangement)	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 14: train/1358519/4998c9c2e08fe3b95e2f4af34d000b652463da71.jpg	
+True species: Acalypha virginica | True inflorescence: Spike	
+Getting 5 predictions...	
+Prediction 1: Species: Axillary spikes (male) | Inflorescence: Axial spikes (male) or clusters (female)	
+Prediction 2: Species: male sinhala male | Inflorescence: Axial spikes (male) or clusters (female)	
+Prediction 3: Species: Skala scorpioides as dep clean, indicating mature plants. | Inflorescence: Axial spikes (male) or clusters (female)	
+Prediction 4: Invalid JSON response	
+Prediction 5: Invalid JSON response	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 15: train/1360588/5eaaa25ab7948f38c7fac1945da3c6b8d60f6d5e.jpg	
+True species: Daphne gnidium | True inflorescence: Terminal panicle	
+Getting 5 predictions...	
+Prediction 1: Species: Daphne striata | Inflorescence: Terminal capitate	
+Prediction 2: Species: Daphne sphaerica | Inflorescence: Terminal capitate	
+Prediction 3: Species: Daphne paniculata | Inflorescence: Terminal panicle	
+Prediction 4: Species: Daphne striata | Inflorescence: Terminal capitate	
+Prediction 5: Species: Boscia mossambox japonica | Inflorescence: Terminal panicle	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 16: train/1356781/ecde2fd0e339f8f5f29ef256cd89606743452fc7.jpg	
+True species: Humulus lupulus | True inflorescence: Strobile (female)	
+Getting 5 predictions...	
+Prediction 1: Species: Pseudo-Cyme | Inflorescence: Pseudo-Cyme	
+Prediction 2: Species: Pseudo-umbel | Inflorescence: Pseudo-umbel	
+Prediction 3: Species: orpioid corpioid | Inflorescence: Scorpioid cyme	
+Prediction 4: Species: orpioid cyme | Inflorescence: Scorpioid cyme	
+Prediction 5: Species: Pseudo-umbel | Inflorescence: Pseudo-umbel	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 17: train/1356278/edbbf2d81b7b7d9f05197d0cb023aae8827ffdce.jpg	
+True species: Trifolium fragiferum | True inflorescence: Globose head	
+Getting 5 predictions...	
+Prediction 1: Species: Fruiting (fruiting pods) | Inflorescence: Terminal cluster	
+Prediction 2: Species: Trifolium glomeratum | Inflorescence: Globose head	
+Prediction 3: Species: Trifolium incarnatum | Inflorescence: Dense, flower head	
+Prediction 4: Species: Trifolium incarnatum | Inflorescence: Terminal (monoecious)	
+Prediction 5: Species: Axillary as well as dense | Inflorescence: Axillary, dense clusters	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 18: train/1359530/09ed61c76f4a2c50fa7e0cd55c5286b852176fc1.jpg	
+True species: Trifolium tomentosum | True inflorescence: Globose head	
+Getting 5 predictions...	
+Prediction 1: Species: Trifolium habitanum | Inflorescence: Aged head	
+Prediction 2: Species: Globose lemon yellow | Inflorescence: Globose, less vibrant	
+Prediction 3: Species: Trifolium lappaceum | Inflorescence: Head (Head)	
+Prediction 4: Species: Trifolium boger | Inflorescence: Globose head	
+Prediction 5: Species: Trifolium tomentum | Inflorescence: Globose, less vibrant	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 19: train/1359497/0d00f37246162524fe39d8c2cd4cf63d0b9aa3ba.jpg	
+True species: Trifolium hybridum | True inflorescence: Globose head	
+Getting 5 predictions...	
+Prediction 1: Species: Aegopmentum maritimum | Inflorescence: Compound Umbel	
+Prediction 2: Species: Trifolium repens | Inflorescence: Globose head	
+Prediction 3: Species: Trifolium pure | Inflorescence: Globose head	
+Prediction 4: Species: Aegopmentum alevertices | Inflorescence: Compound Umbel	
+Prediction 5: Species: Trifolium pure | Inflorescence: Globose head	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 20: train/1435714/781d8b8dcab42db16fa977676f4d7cc6598a315f.jpg	
+True species: Pelargonium zonale | True inflorescence: Pseudo-umbel	
+Getting 5 predictions...	
+Prediction 1: Species: Punica granatum | Inflorescence: Solitary	
+Prediction 2: Species: Pelargonium graveolens | Inflorescence: Solitary	
+Prediction 3: Species: Pelargonium graveolens | Inflorescence: Pseudo-umbel	
+Prediction 4: Species: Pseudo-umbel | Inflorescence: Pseudo-umbel	
+Prediction 5: Species: Pseudo-umbel | Inflorescence: Pseudo-umbel	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 21: train/1358133/db766ec49c20e754a25a1d2488482bd697f72c8e.jpg	
+True species: Sedum sediforme | True inflorescence: Terminal cyme	
+Getting 5 predictions...	
+Prediction 1: Species: orpio europoe | Inflorescence: Scorpio europoe	
+Prediction 2: Species: Sedum gallicum | Inflorescence: Cyme	
+Prediction 3: Species: Acacia rich africana | Inflorescence: Cyme (Corymb-like)	
+Prediction 4: Invalid JSON response	
+Prediction 5: Species: Achyranthes aspera | Inflorescence: Scab-like rissophy	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 22: train/1359528/402579391cebca1fcf5f5eb4618f1938ca831c96.jpg	
+True species: Trifolium subterraneum | True inflorescence: Head	
+Getting 5 predictions...	
+Prediction 1: Species: Asystasia charmian | Inflorescence: Secund raceme	
+Prediction 2: Species: Asystraceme africana | Inflorescence: Secund raceme	
+Prediction 3: Invalid JSON response	
+Prediction 4: Invalid JSON response	
+Prediction 5: Species: Umbel pondonia procumbata | Inflorescence: Umbel-like raceme	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 23: train/1359815/a39e36bcd55dff6792203b180651ea282838bf01.jpg	
+True species: Papaver atlanticum | True inflorescence: Solitary	
+Getting 5 predictions...	
+Prediction 1: Species: Sphaerzia africana | Inflorescence: Solitary	
+Prediction 2: Species: Papaver atlanticum | Inflorescence: Solitary	
+Prediction 3: Species: Erechtites hierpaspella africana | Inflorescence: Solitary	
+Prediction 4: Species: Papaver rubens | Inflorescence: Solitary	
+Prediction 5: Species: Papaver atlanticum | Inflorescence: Solitary	
+	
+Results:	
+Species: Full match in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 24: train/1359498/0446a926328340cbabbf91a7712fca47b53460e9.jpg	
+True species: Trifolium incarnatum | True inflorescence: Capitulum (Head)	
+Getting 5 predictions...	
+Prediction 1: Species: Trifolium (3737) | Inflorescence: Dense spike-like (Head)	
+Prediction 2: Species: Trifolium rubens | Inflorescence: Dense spike-like (corymbose form)	
+Prediction 3: Species: Trifolium rubens | Inflorescence: Dense spike-like (corymbose)	
+Prediction 4: Species: Trifolium rubens | Inflorescence: Dense spike-like (corymbose raceme)	
+Prediction 5: Species: Trifolium rubens | Inflorescence: Dense spike-like (corymbose form)	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 25: train/1359616/24c4781fdf8c77dc43f3bf89e085fff53b4ce060.jpg	
+True species: Punica granatum | True inflorescence: Solitary	
+Getting 5 predictions...	
+Prediction 1: Species: Solitary, not blooming in clusters. | Inflorescence: Solitary	
+Prediction 2: Species: Punica granatum | Inflorescence: Solitary	
+Prediction 3: Species: Punica granatum | Inflorescence: Solitary	
+Prediction 4: Species: Punica granatum | Inflorescence: Solitary	
+Prediction 5: Species: Punica granatum | Inflorescence: Solitary, axillary	
+	
+Results:	
+Species: Full match in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 26: train/1358689/ccab975365568691c34dfa437df0bb1cde10f643.jpg	
+True species: Hypericum androsaemum | True inflorescence: Terminal cyme	
+Getting 5 predictions...	
+Prediction 1: Species: orpioid cyme | Inflorescence: Scorpioid cyme	
+Prediction 2: Species: D blackberry-brown | Inflorescence: Loose axillary	
+Prediction 3: Species: Moissantes, beaded with blackberries. | Inflorescence: Loose axillary clusters	
+Prediction 4: Species: orpio europander | Inflorescence: Scorpio red	
+Prediction 5: Species: Morinda polifolia | Inflorescence: Loose axillary	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 27: train/1398178/249587b08a0f4865e243de8167bfb69ef1887194.jpg	
+True species: Tradescantia zebrina | True inflorescence: Paired Cymes	
+Getting 5 predictions...	
+Prediction 1: Invalid JSON response	
+Prediction 2: Species: Tradescantia mii | Inflorescence: Terminal cyme	
+Prediction 3: Species: Neotapax mossamboy soyne | Inflorescence: Vignaigna camari	
+Prediction 4: Species: Tradescantia plum tree | Inflorescence: Terminal cumbose spicate	
+Prediction 5: Species: Tradescantia cynamolii | Inflorescence: Cyme	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 28: train/1358689/ff1d93c713e8289dfd60d7ce1568f57ee8ca1f66.jpg	
+True species: Hypericum androsaemum | True inflorescence: Terminal cyme	
+Getting 5 predictions...	
+Prediction 1: Species: Hypericum androsaemum | Inflorescence: Terminal cyme	
+Prediction 2: Species: Hypericum androsaemum | Inflorescence: Terminal cyme	
+Prediction 3: Species: Hypericum tomentum | Inflorescence: Terminal cyme	
+Prediction 4: Species: Hypericum androsaemum | Inflorescence: Terminal cyme	
+Prediction 5: Species: Hypericum roseum | Inflorescence: Terminal cyme	
+	
+Results:	
+Species: Full match in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 29: train/1360835/9f5e995e144da574365bd381d9910ea1176e7ad0.jpg	
+True species: Centranthus calcitrapae | True inflorescence: dense terminal cyme	
+Getting 5 predictions...	
+Prediction 1: Invalid JSON response	
+Prediction 2: Species: Stark Vancaria afranthes | Inflorescence: Vickenskap racae	
+Prediction 3: Invalid JSON response	
+Prediction 4: Invalid JSON response	
+Prediction 5: Species: Fedia red cedef florets | Inflorescence: Globose head	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 30: train/1358751/f54b6945b3081acc591d721326a1298559a02226.jpg	
+True species: Lamium hybridum | True inflorescence: Verticillaster (whorls)	
+Getting 5 predictions...	
+Prediction 1: Invalid JSON response	
+Prediction 2: Species: Lamium purpureum | Inflorescence: Verticillata	
+Prediction 3: Species: Lamium rhombifolium | Inflorescence: Verticillaster verticillasters	
+Prediction 4: Species: Lamium rhombifolium | Inflorescence: Verticillata	
+Prediction 5: Species: Lamium rhombifolium | Inflorescence: Verticillata	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 31: train/1359616/dc33de9c6fdd58c9a8e92a5cba152ac9c952f5f3.jpg	
+True species: Punica granatum | True inflorescence: Solitary	
+Getting 5 predictions...	
+Prediction 1: Species: Punica granatum | Inflorescence: Solitary	
+Prediction 2: Species: Punica granatum | Inflorescence: Solitary	
+Prediction 3: Species: Solitary | Inflorescence: Solitary	
+Prediction 4: Species: Panicle of very long, slender flowers. | Inflorescence: Panicle	
+Prediction 5: Invalid JSON response	
+	
+Results:	
+Species: Full match in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 32: train/1355990/8d404834d8832f284c2c80d7870a396c11304703.jpg	
+True species: Mercurialis annua | True inflorescence: Axillary spikes (male) or clusters (female)	
+Getting 5 predictions...	
+Prediction 1: Species: Achyranthes aspera | Inflorescence: Axillary spikes (male) or clusters (female)	
+Prediction 2: Species: Male jordi mexicanx | Inflorescence: Axillary spikes (male) or clusters (female)	
+Prediction 3: Invalid JSON response	
+Prediction 4: Invalid JSON response	
+Prediction 5: Invalid JSON response	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 33: train/1355868/8e27d5c82606d628ed07e6ae20150800f63648a0.jpg	
+True species: Lactuca virosa | True inflorescence: Capitulum (Head)	
+Getting 5 predictions...	
+Prediction 1: Species: Capitulum (Capitulum) | Inflorescence: Capitulum	
+Prediction 2: Species: Lapsana communţii | Inflorescence: Capitulum	
+Prediction 3: Species: Capitulum (Capitulum) | Inflorescence: Capitulum	
+Prediction 4: Species: Cirsium monkipun | Inflorescence: Capitulum	
+Prediction 5: Species: Erucast raceme | Inflorescence: Raceme	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 34: train/1355936/f9bc907a288bbdb1ee11a2776070ad453931d093.jpg	
+True species: Cirsium arvense | True inflorescence: Capitulum (Head)	
+Getting 5 predictions...	
+Prediction 1: Species: Carthamus card racae | Inflorescence: Capitulum	
+Prediction 2: Species: Carthamus tinctorius | Inflorescence: Capitulum (Head)	
+Prediction 3: Species: Cirsium galliprotum | Inflorescence: Capitulum	
+Prediction 4: Species: Carthamus tinctorius | Inflorescence: Capitulum (Head)	
+Prediction 5: Species: Carthamus tinctorius | Inflorescence: Capitulum	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 35: train/1358710/799255d1f8d1aeb9e0f3ea688e1c856f40f8797d.jpg	
+True species: Hypericum tetrapterum | True inflorescence: Cyme	
+Getting 5 predictions...	
+Prediction 1: Species: Hypericum humphphphifolium | Inflorescence: Cyme	
+Prediction 2: Species: Aegopmenteg parameum | Inflorescence: Cymbiotic cyme	
+Prediction 3: Species: Aizegota lean base | Inflorescence: CHead (Head-like)	
+Prediction 4: Species: Acalypha virginica | Inflorescence: CHead (Capitulum)	
+Prediction 5: Species: Hypericum humphophthai | Inflorescence: Cyme	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 36: train/1358766/bfee29fa9506627bf0537b415f9ec77d6154cd85.jpg	
+True species: Lavandula stoechas | True inflorescence: Spike	
+Getting 5 predictions...	
+Prediction 1: Invalid JSON response	
+Prediction 2: Species: Lavandescence lavdescens | Inflorescence: Spike	
+Prediction 3: Species: Lavandescence lavandaceous | Inflorescence: Axillary clusters	
+Prediction 4: Species: Pseudo-umbel | Inflorescence: Pseudo-umbel	
+Prediction 5: Species: Lavand vegetation | Inflorescence: Axillary clusters	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 37: train/1357379/b1ac0611d0052df043a8b10818524ed202fdfbcb.jpg	
+True species: Carthamus lanatus | True inflorescence: Capitulum (flower head)	
+Getting 5 predictions...	
+Prediction 1: Species: Carthamus micro franzis | Inflorescence: Carthamus card deadliest	
+Prediction 2: Species: Carthamus tinctor | Inflorescence: Capitulum (flower head)	
+Prediction 3: Species: Carthamus tinctorius | Inflorescence: Dense golden yellow (χεία)	
+Prediction 4: Species: Carthamus tan | Inflorescence: Carthamus tan	
+Prediction 5: Species: Carthamus tinctor | Inflorescence: Carthamus tinctoris	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 38: train/1358094/5fea6e4de9e8fa7306c879c848fdf911d9608f32.jpg	
+True species: Sedum acre | True inflorescence: Cyme	
+Getting 5 predictions...	
+Prediction 1: Species: Acacia hybridolamii | Inflorescence: Cyme (Corymb-like)	
+Prediction 2: Species: Acacia hybridoli | Inflorescence: Cyme (Corymb-like)	
+Prediction 3: Species: Acacia hybridoliifolia | Inflorescence: Cyme (Corymb-like)	
+Prediction 4: Species: Acacia hybridoliifolia | Inflorescence: Cyme (Corymb-like)	
+Prediction 5: Species: Ceramic experimental | Inflorescence: Cyme (Corymb-like)	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 39: train/1361024/ea1ed524970647ef6fa026b240b1a68e4e3f41f5.jpg	
+True species: Butomus umbellatus | True inflorescence: umbel	
+Getting 5 predictions...	
+Prediction 1: Species: umbel-umbel | Inflorescence: umbel	
+Prediction 2: Invalid JSON response	
+Prediction 3: Species: umbel | Inflorescence: umbel	
+Prediction 4: Invalid JSON response	
+Prediction 5: Species: umbelumbens umensus | Inflorescence: umbel	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 40: train/1359625/1a757754150682667b7075aae4b124380f354eca.jpg	
+True species: Althaea officinalis | True inflorescence: Axillary clusters	
+Getting 5 predictions...	
+Prediction 1: Species: Burs (Ruiz parting) | Inflorescence: B432 (light, sun-bleached brownish-purple)	
+Prediction 2: Species: Althaea officinalis | Inflorescence: Axillary clusters	
+Prediction 3: Species: Burs florets (dry, developing) | Inflorescence: B432 (bright, almost iridescent white)	
+Prediction 4: Invalid JSON response	
+Prediction 5: Species: Lavandula lavandifera | Inflorescence: Thyrso-crane	
+	
+Results:	
+Species: Full match in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 41: train/1359625/86beb28a64b41c31e6a670c144b4ce38259f6f37.jpg	
+True species: Althaea officinalis | True inflorescence: Axillary clusters	
+Getting 5 predictions...	
+Prediction 1: Invalid JSON response	
+Prediction 2: Species: Althaea officinalis | Inflorescence: Solitary	
+Prediction 3: Species: orpio europoe | Inflorescence: Scorpio Indian	
+Prediction 4: Species: Althaea officinalis | Inflorescence: Solitary	
+Prediction 5: Invalid JSON response	
+	
+Results:	
+Species: Full match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 42: train/1359483/a659004f8e2c3cf89bdcd5870985aa296786e81e.jpg	
+True species: Trifolium angustifolium | True inflorescence: Spike-like head	
+Getting 5 predictions...	
+Prediction 1: Species: Bursกาย eficaz | Inflorescence: Spike-like achronisations	
+Prediction 2: Species: Achyranthes aspera | Inflorescence: Spike-like, dense	
+Prediction 3: Species: Sopodrux aquatica | Inflorescence: Sopodrux Over Tightly Arr Overlapping	
+Prediction 4: Species: Cenchrus c lymphoide | Inflorescence: Cyme	
+Prediction 5: Species: Cenchrus crames | Inflorescence: Cyme	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 43: train/1359497/78aea7e32096081c357b777dbbb8b509e5b9d2e2.jpg	
+True species: Trifolium hybridum | True inflorescence: Globose head	
+Getting 5 predictions...	
+Prediction 1: Species: Trifolium repens | Inflorescence: Globose head	
+Prediction 2: Species: Trifolium nigrescens | Inflorescence: Globose head	
+Prediction 3: Species: Trifolium tomentosum | Inflorescence: Umbel-like cyme	
+Prediction 4: Species: Trifolium biroque | Inflorescence: A bi-loop	
+Prediction 5: Species: Trifolium glomeratum | Inflorescence: Globose head	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 44: train/1356022/6c3675a879c3d0b8ee54345d17654b06c9e93ac0.jpg	
+True species: Hypericum perforatum | True inflorescence: Terminal cyme	
+Getting 5 predictions...	
+Prediction 1: Species: Hypericum triquet | Inflorescence: Cyme	
+Prediction 2: Species: Hypericum triquetifolium | Inflorescence: Cyme	
+Prediction 3: Species: Hypericum triquet | Inflorescence: Cyme	
+Prediction 4: Species: Hypericum triquetifolium | Inflorescence: Cyme	
+Prediction 5: Invalid JSON response	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 45: train/1359669/065c1a33a13d6986166ebf3b8c30c95d5ff4bbae.jpg	
+True species: Nymphaea alba | True inflorescence: Solitary	
+Getting 5 predictions...	
+Prediction 1: Species: Solitary | Inflorescence: Solitary	
+Prediction 2: Species: Nymphaea lotus | Inflorescence: Solitary	
+Prediction 3: Species: Solitary groin | Inflorescence: Solitary	
+Prediction 4: Species: Nymphaea lotus | Inflorescence: Solitary	
+Prediction 5: Species: Solitary | Inflorescence: Solitary	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 46: train/1358749/398bc0c8397602451ceeba0675f9c8005b87448c.jpg	
+True species: Lamium flexuosum | True inflorescence: Verticillaster	
+Getting 5 predictions...	
+Prediction 1: Species: Lamium rhombifolium | Inflorescence: Verticillata (whorls)	
+Prediction 2: Species: Lamium, horubelline | Inflorescence: Verticillaster (whorled arrangement)	
+Prediction 3: Species: Lamium rhombifolium | Inflorescence: Verticillata	
+Prediction 4: Invalid JSON response	
+Prediction 5: Species: Lamium rhombifolium | Inflorescence: Verticillata	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 47: train/1359517/ca57aba8f8261c982b3b54fa326aa551183a8d4c.jpg	
+True species: Trifolium pratense | True inflorescence: Head (Capitulum)	
+Getting 5 predictions...	
+Prediction 1: Species: Trifolium nigrescens | Inflorescence: Globose head	
+Prediction 2: Species: Trifolium nigrescens | Inflorescence: Globose head	
+Prediction 3: Species: Trifolium nigrescens | Inflorescence: Dense (new)	
+Prediction 4: Species: Aegopmentis aquatica | Inflorescence: Compound Umbel	
+Prediction 5: Species: Aegopmentis aquatica | Inflorescence: Compound Umbel	
+	
+Results:	
+Species: Genus match only in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 48: train/1359519/b91916e1ead36b6b14f68ad2ede8c0511a71fb5f.jpg	
+True species: Trifolium resupinatum | True inflorescence: Globose head	
+Getting 5 predictions...	
+Prediction 1: Species: Duchsia, cerinthoides pilosus | Inflorescence: Dichasial cyme	
+Prediction 2: Invalid JSON response	
+Prediction 3: Species: Duchsia lowamii | Inflorescence: Dichasial cyme	
+Prediction 4: Species: Dichasial cyme | Inflorescence: Dichasial cyme	
+Prediction 5: Species: Dichasial cyme | Inflorescence: Dichasial cyme	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 49: train/1359530/7a822a55db28c4d972ed8e3ba73b2c97389abc58.jpg	
+True species: Trifolium tomentosum | True inflorescence: Globose head	
+Getting 5 predictions...	
+Prediction 1: Species: Trifolium glomeratum | Inflorescence: Globose head	
+Prediction 2: Species: Fumbfom sambo | Inflorescence: Fumbomfumbos	
+Prediction 3: Species: Trifolium tomentosum | Inflorescence: Globose head	
+Prediction 4: Species: Fumbia africana | Inflorescence: Globose*fumbia	
+Prediction 5: Invalid JSON response	
+	
+Results:	
+Species: Full match in top-5	
+Inflorescence: Match in top-5	
+--------------------------------------------------------------------------------	
+	
+Image 50: train/1360590/e9b4e29c27badb7d9ad77636cb796c4d07196f38.jpg	
+True species: Daphne laureola | True inflorescence: Axillary raceme	
+Getting 5 predictions...	
+Prediction 1: Species: Calendula arvensis | Inflorescence: Capitulum	
+Prediction 2: Species: Gynura procumbata | Inflorescence: Capitulum	
+Prediction 3: Species: Capitulum ante캔 | Inflorescence: Capitulum	
+Prediction 4: Species: Gynura aurantiaca | Inflorescence: Capitulum	
+Prediction 5: Species: Gynura procumbata | Inflorescence: Capitulum	
+	
+Results:	
+Species: No match in top-5	
+Inflorescence: No match in top-5	
+--------------------------------------------------------------------------------	
+	
+#ERROR!	
+SUMMARY RESULTS	
+#ERROR!	
+Total images tested: 50	
+Invalid JSON responses: 39 (out of 250 total predictions)	
